@@ -1,0 +1,8 @@
+name: VoteLinks
+main: VoteLinks\Main
+version: 1.0.0
+api: 3.0.0
+
+commands:
+  votelinks:
+    description: Send a VoteLinks
